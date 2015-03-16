@@ -1,0 +1,7 @@
+name: ${project.name}
+main: ${main.class}
+version: ${project.version}
+permissions:
+  enderbow.fire:
+    description: Gives the player the ability to fire an Ender bow
+    default: true
