@@ -1,6 +1,7 @@
 name: ${project.name}
 main: ${main.class}
 version: ${project.version}
+depends: [EnderBow]
 permissions:
   enderbow.fire:
     description: Gives the player the ability to fire an Ender bow
